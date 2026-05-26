@@ -143,6 +143,10 @@ body {
     margin-bottom: 20px;
 }
 
+.text-list-item {
+    display: list-item;
+}
+
 .image {
     margin-bottom: 40px;
 }
